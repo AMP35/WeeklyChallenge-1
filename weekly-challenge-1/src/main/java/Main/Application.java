@@ -7,13 +7,13 @@ public class Application {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-//		String ex1 = "232425";
-//		String ex2 = "23324256";
-//		String ex3 = "444445";
-//		
-//		System.out.println("Test 1: " + ascending(ex1));
-//		System.out.println("Test 2: " + ascending(ex2));
-//		System.out.println("Test 3: " + ascending(ex3));
+		String ex1 = "232425";
+		String ex2 = "23324256";
+		String ex3 = "444445";
+		
+		System.out.println("Test 1: " + ascending(ex1));
+		System.out.println("Test 2: " + ascending(ex2));
+		System.out.println("Test 3: " + ascending(ex3));
 
 		int ex4 = 3;
 		int ex5 = 5;
